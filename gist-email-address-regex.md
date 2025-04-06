@@ -123,8 +123,6 @@ Character escapes is a character that invokes an alternative interpretation on t
 ## Author
 Drum Holliday
 
-I'm currently a student at the UC Irvine Fullstack Coding Bootcamp 
-
 ## Sources
 * RegexMagic (https://www.regular-expressions.info/email.html)
 * Javascript.Info (https://javascript.info/regular-expressions)
